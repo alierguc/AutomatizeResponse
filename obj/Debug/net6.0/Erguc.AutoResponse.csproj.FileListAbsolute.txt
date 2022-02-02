@@ -1,0 +1,11 @@
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\bin\Debug\net6.0\Erguc.AutoResponse.deps.json
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\bin\Debug\net6.0\Erguc.AutoResponse.dll
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\bin\Debug\net6.0\ref\Erguc.AutoResponse.dll
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\bin\Debug\net6.0\Erguc.AutoResponse.pdb
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\obj\Debug\net6.0\Erguc.AutoResponse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\obj\Debug\net6.0\Erguc.AutoResponse.AssemblyInfoInputs.cache
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\obj\Debug\net6.0\Erguc.AutoResponse.AssemblyInfo.cs
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\obj\Debug\net6.0\Erguc.AutoResponse.csproj.CoreCompileInputs.cache
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\obj\Debug\net6.0\Erguc.AutoResponse.dll
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\obj\Debug\net6.0\ref\Erguc.AutoResponse.dll
+C:\Users\alier\Desktop\AutomatizeResponse\Erguc.AutoResponse\Erguc.AutoResponse\obj\Debug\net6.0\Erguc.AutoResponse.pdb

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Erguc.AutoResponseTemplate</id>
+    <version>1.0</version>
+    <title>Authomatize Response Template</title>
+    <authors>Ali Ergüç</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/alierguc/AutomatizeResponse.git</projectUrl>
+    <description>Automatize Response for status code template</description>
+    <releaseNotes>
+		It is a method that automates the status and error codes, returns them by creating a certain layout and template, and does this without the need to create a new object. All you have to do is pass the relevant parameters to the method.
+	</releaseNotes>
+    <copyright>2022</copyright>
+    <tags>Automatize Response Status Code API</tags>
+	  <dependencies>
+		  <group targetFramework="net6.0">
+			  <dependency id="Microsoft.AspNetCore.Mvc.Abstractions" version="2.2.0"></dependency>
+			  <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5"></dependency>
+		  </group>
+	  </dependencies>
+  </metadata>
+	<files>
+		<file src="bin\Release\net6.0\Erguc.AutoResponse.dll" target="bin\Release\net6.0\Erguc.AutoResponse.dll"></file>
+		<file src="cave.png" target="cave.png"></file>
+	</files>
+</package>

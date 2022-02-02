@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alier\\Desktop\\AutomatizeResponse\\Erguc.AutoResponse\\Erguc.AutoResponse\\Erguc.AutoResponse.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alier\\Desktop\\AutomatizeResponse\\Erguc.AutoResponse\\Erguc.AutoResponse\\Erguc.AutoResponse.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alier\\Desktop\\AutomatizeResponse\\Erguc.AutoResponse\\Erguc.AutoResponse\\Erguc.AutoResponse.csproj",
+        "projectName": "Erguc.AutoResponse",
+        "projectPath": "C:\\Users\\alier\\Desktop\\AutomatizeResponse\\Erguc.AutoResponse\\Erguc.AutoResponse\\Erguc.AutoResponse.csproj",
+        "packagesPath": "C:\\Users\\alier\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alier\\Desktop\\AutomatizeResponse\\Erguc.AutoResponse\\Erguc.AutoResponse\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alier\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
